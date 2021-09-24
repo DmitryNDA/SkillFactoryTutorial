@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="res_text">Ресурсный текст</string>
+    <string name="res_text_motivation">Путь в тысячу ли начинается с шага!</string>
+    <string name="button_name">Кнопка</string>
+
+
+</resources>
