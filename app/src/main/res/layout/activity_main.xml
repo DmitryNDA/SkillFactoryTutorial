@@ -27,12 +27,14 @@
         tools:ignore="ContentDescription" />
 
     <Button
+        android:background="@drawable/rectangle"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:layout_gravity="top|center"
         android:layout_marginTop="600dp"
         android:enabled="true"
         android:onClick="onClickToast"
-        android:text="@string/button_name"/>
+        android:text="@string/button_name"
+        tools:ignore="UsingOnClickInXml" />
 
 </FrameLayout>
