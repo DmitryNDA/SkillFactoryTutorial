@@ -3,6 +3,7 @@
     <string name="res_text">Ресурсный текст</string>
     <string name="res_text_motivation">Путь в тысячу ли начинается с шага!</string>
     <string name="button_name">Кнопка</string>
+    <string name="hard_button_name"> GO </string>
 
 
 </resources>
